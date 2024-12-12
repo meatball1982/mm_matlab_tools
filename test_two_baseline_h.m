@@ -73,3 +73,7 @@ box on
 axis([-0.1 0.5 -1 30 ])
 caxis([0 pl_xmax])
 colormap(col_mm)
+
+h=gcf;
+fi_na='./fig_mm_bar_diff_base_line';
+fun_work_li_035_myfig_out(h,fi_na,3)
