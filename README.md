@@ -5,5 +5,5 @@
  with different color
  
 “`markdown
-![图片描述](图片链接)
+![differen base line, bar, barh](./fig_mm_bar_diff_base_line.png)
 “`
