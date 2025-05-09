@@ -16,14 +16,15 @@
  fun_mm_bar_baseline
  
  fun_mm_barh_baseline
+
+ fun_mm_bar_color
  
 ![differen base line, bar, barh](https://github.com/meatball1982/mm_matlab_tools/blob/main/fig_mm_bar_diff_base_line.png)
 
-fun_mm_bar_color
 
-![fig_col_hist](https://github.com/user-attachments/assets/d9584d84-cd11-4241-8870-ed55c729d87d)
 
-![fig_patch_1_2](https://github.com/user-attachments/assets/04da4ed9-3fea-4dc4-9b2b-a23c266dbbbf)
+![fun_mm_color_bar](https://github.com/user-attachments/assets/31b6c486-5639-4edf-a072-88607d261506)
 
+![tans_diff_colormap](https://github.com/user-attachments/assets/c59f4246-911e-4042-952e-61d59c396280)
 
 ![small](https://github.com/user-attachments/assets/07369f3d-3060-4949-82fa-92e0735bb1c4)
