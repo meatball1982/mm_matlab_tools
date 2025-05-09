@@ -19,9 +19,7 @@
 
  fun_mm_bar_color
  
-![differen base line, bar, barh](https://github.com/meatball1982/mm_matlab_tools/blob/main/fig_mm_bar_diff_base_line.png)
-
-
+![fig_mm_bar_diff_base_line](https://github.com/user-attachments/assets/18162113-6d08-4c7a-b0dc-6ead6bb4583e)
 
 ![fun_mm_color_bar](https://github.com/user-attachments/assets/31b6c486-5639-4edf-a072-88607d261506)
 
