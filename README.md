@@ -26,3 +26,8 @@
 ![tans_diff_colormap](https://github.com/user-attachments/assets/c59f4246-911e-4042-952e-61d59c396280)
 
 ![small](https://github.com/user-attachments/assets/07369f3d-3060-4949-82fa-92e0735bb1c4)
+
+![fig_plt_bar3d_small](https://github.com/user-attachments/assets/9a1bb669-54ac-47e7-9a36-6b75649d060b)
+
+![fig_plt_bar3d_colorbar_alpha](https://github.com/user-attachments/assets/d761b6d4-7a95-4467-950c-b8b487e49b40)
+
