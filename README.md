@@ -26,4 +26,4 @@ fun_mm_bar_color
 ![fig_patch_1_2](https://github.com/user-attachments/assets/04da4ed9-3fea-4dc4-9b2b-a23c266dbbbf)
 
 
-![fig_plt_mod_any_med](https://github.com/user-attachments/assets/c2a9e139-b8cb-449f-b999-735e8cc8fef3)
+![small](https://github.com/user-attachments/assets/07369f3d-3060-4949-82fa-92e0735bb1c4)
