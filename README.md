@@ -31,3 +31,5 @@
 
 ![fig_plt_bar3d_colorbar_alpha](https://github.com/user-attachments/assets/d761b6d4-7a95-4467-950c-b8b487e49b40)
 
+
+![fig_string2](https://github.com/user-attachments/assets/990a6c59-3553-410c-a2fe-31b44d90c39a)
