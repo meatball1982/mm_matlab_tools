@@ -33,3 +33,6 @@
 
 
 ![fig_string2](https://github.com/user-attachments/assets/990a6c59-3553-410c-a2fe-31b44d90c39a)
+
+
+<img width="2390" height="1799" alt="fig_rmsf" src="https://github.com/user-attachments/assets/d534e255-9b03-434b-9e98-23388b195f10" />
