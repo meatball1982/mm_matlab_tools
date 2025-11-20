@@ -31,9 +31,13 @@
 
 ![fig_plt_bar3d_colorbar_alpha](https://github.com/user-attachments/assets/d761b6d4-7a95-4467-950c-b8b487e49b40)
 
+work_rmsf_plot
+fun_plot_batch
 
-![fig_string2](https://github.com/user-attachments/assets/990a6c59-3553-410c-a2fe-31b44d90c39a)
+<img width="497" height="473" alt="fig_rmsf_small" src="https://github.com/user-attachments/assets/f474ac36-5c08-4d1c-944a-7386be21df6b" />
 
 
 
-<img width="2390" height="1799" alt="fig_rmsf" src="https://github.com/user-attachments/assets/0da88438-1de9-4f97-a955-abc72b7e7faf" />
+
+
+
