@@ -36,7 +36,11 @@ fun_plot_batch
 
 <img width="497" height="473" alt="fig_rmsf_small" src="https://github.com/user-attachments/assets/f474ac36-5c08-4d1c-944a-7386be21df6b" />
 
+work_plot_bar_with_multi_colormap.m
 
+fun_plot_batch
+
+<img width="593" height="419" alt="fig_bar_multi_colormap" src="https://github.com/user-attachments/assets/75398475-2ffb-40d3-aeaa-f1396a9679bc" />
 
 
 
