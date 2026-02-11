@@ -42,6 +42,7 @@ fun_plot_batch
 
 <img width="593" height="419" alt="fig_bar_multi_colormap" src="https://github.com/user-attachments/assets/75398475-2ffb-40d3-aeaa-f1396a9679bc" />
 
-
+fun_mm_polarbar
+<img width="500" height="487" alt="fig_polar_chart" src="https://github.com/user-attachments/assets/c594921d-3e72-41d0-aea2-cb49375fef7a" />
 
 
