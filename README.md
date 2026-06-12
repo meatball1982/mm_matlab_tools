@@ -45,4 +45,5 @@ fun_plot_batch
 fun_mm_polarbar
 <img width="500" height="487" alt="fig_polar_chart" src="https://github.com/user-attachments/assets/c594921d-3e72-41d0-aea2-cb49375fef7a" />
 
-
+firebar
+<img width="400" height="416" alt="firebar_matlab2" src="https://github.com/user-attachments/assets/fcd30de1-4212-421b-9466-248fa158df47" />
